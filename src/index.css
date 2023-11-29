@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Clear Sans Bold";
+  src: url("./assets/clearsans/ClearSans-Bold.ttf");
+  /* 700 */
+}
+@font-face {
+  font-family: "Clear Sans Medium";
+  src: url("./assets/clearsans/ClearSans-Medium.ttf");
+  /* 500 */
+}
+@font-face {
+  font-family: "Clear Sans Regular";
+  src: url("./assets/clearsans/ClearSans-Regular.ttf");
+  /* 400 */
+}
+@font-face {
+  font-family: "Clear Sans Light";
+  src: url("./assets/clearsans/ClearSans-Light.ttf");
+  /* 300 */
+}
+@font-face {
+  font-family: "Clear Sans Thin";
+  src: url("./assets/clearsans/ClearSans-Thin.ttf");
+  /* 200 */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Clear Sans Regular"; */
+}
